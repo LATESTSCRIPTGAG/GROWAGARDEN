@@ -1,1 +1,6 @@
+Hello! hope you enjoy your script! kindly just copy and Paste it! 
+from loadstring to (), execute it on your executer! any executer works fine! 
+
+
+Script Here! 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LATESTSCRIPTGAG/GROWAGARDEN/refs/heads/main/GAGSCRIPT"))()

